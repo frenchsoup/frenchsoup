@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @frenchsoup
 - 👀 I’m interested in impoving my developer skillset
-- 🌱 I’m currently learning using the Fundamentals and JavaScript path on TheOdinProject
-- 💞️ I’m looking to collaborate on any code suggestions for any of my public repositories
+- 🌱 I’m currently learning using the Fundamentals & JavaScript path on TheOdinProject
 - 📫 How to reach me: Discord = frenchsoup#2648
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
