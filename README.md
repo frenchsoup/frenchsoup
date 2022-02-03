@@ -8,7 +8,7 @@
 - 📫 How to reach me ...
   - Discord = frenchsoup#2648
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenchsoup)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenchsoup&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=frenchsoup&show_icons=true&theme=radical)
 
 <!---
