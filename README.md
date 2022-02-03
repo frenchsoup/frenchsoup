@@ -8,8 +8,8 @@
 - 📫 How to reach me ...
   - Discord = frenchsoup#2648
   
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=frenchsoup&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenchsoup&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=frenchsoup&show_icons=true&theme=radical)
 
 <!---
 frenchsoup/frenchsoup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
