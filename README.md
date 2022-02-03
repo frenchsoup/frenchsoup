@@ -8,6 +8,13 @@
 - 📫 How to reach me ...
   - Discord = frenchsoup#2648
   
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frenchsoup&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frenchsoup&repo=convoychat" />
+</a>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenchsoup)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
