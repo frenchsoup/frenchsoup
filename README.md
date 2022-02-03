@@ -7,7 +7,7 @@
   - Any code suggestions for any of my public repositories
 - 📫 How to reach me ...
   - Discord = frenchsoup#2648
-  - 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frenchsoup)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
